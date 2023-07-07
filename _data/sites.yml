@@ -1882,6 +1882,11 @@
   size: 260
   last_checked: 2022-05-06
 
+- domain: milllons.neocities.org
+  url: https://milllons.neocities.org/ (Make sure you keep the trailing slash)
+  size: 2.5
+  last_checked: 2023-07-07 (YYYY-MM-DD)
+  
 - domain: miltsghostrehab.xyz
   url: https://miltsghostrehab.xyz/
   size: 52.9
